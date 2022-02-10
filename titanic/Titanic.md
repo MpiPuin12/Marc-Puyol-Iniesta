@@ -1,7 +1,11 @@
 # Titanic approaches - feature engineering
-##  1. My own data cleaning 
+##### Table of Contents  
+- [My own data cleaning ](https://github.com/MpiPuin12/Marc-Puyol-Iniesta/edit/main/titanic/Titanic.md/##My_own_data_cleaning)
+- [Review of other projects](https://github.com/MpiPuin12/Marc-Puyol-Iniesta/edit/main/titanic/Titanic.md/##Review_of_other_projects)
+
+## My own data cleaning 
 [My data cleaning] https://github.com/MpiPuin12/Marc-Puyol-Iniesta/blob/main/titanic/Untitled.ipynb
-## 2. Review of other projects
+## Review of other projects
 ### 2.1. [Hyphotesis Testing] https://www.kaggle.com/masumrumi/a-statistical-analysis-ml-workflow-of-titanic
 
 **Nice insights**: The study was conducted through different Hypothesis tests to try to observe if certain variables affected the chances of survival.
