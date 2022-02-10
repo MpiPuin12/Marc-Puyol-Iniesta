@@ -4,7 +4,8 @@
 - [Review of other projects](https://github.com/MpiPuin12/Marc-Puyol-Iniesta/edit/main/titanic/Titanic.md/##Review_of_other_projects)
 
 ## My own data cleaning 
-[My data cleaning] https://github.com/MpiPuin12/Marc-Puyol-Iniesta/blob/main/titanic/Untitled.ipynb
+https://github.com/MpiPuin12/Marc-Puyol-Iniesta/blob/main/titanic/Untitled.ipynb
+
 ## Review of other projects
 ### 2.1. [Hyphotesis Testing] https://www.kaggle.com/masumrumi/a-statistical-analysis-ml-workflow-of-titanic
 
