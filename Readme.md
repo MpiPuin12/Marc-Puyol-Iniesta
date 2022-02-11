@@ -25,4 +25,5 @@ We can try to compensate the sample (the churn class in in clear minority) and s
 #### 2.2.2. Tomek resampling
 
 The second method used is tomek. This method consists in undersampling the minority class so that we kind of balance the data. Once resampled, we run the same regression as before to see if this method improved the performance of the model. In this case, the acurrancy score is practically the same as in the first model(and quite better than with the smote resampling) and the percentage of false negatives(again, the most important category) is the best of the three. 
+
 ![Test Image 1](https://github.com/MpiPuin12/Marc-Puyol-Iniesta/blob/main/Untitled%20Folder/Captura%20de%20pantalla%202022-02-11%20a%20las%2017.26.45.png)
