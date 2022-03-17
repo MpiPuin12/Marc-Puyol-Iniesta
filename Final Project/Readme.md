@@ -5,6 +5,7 @@ Social Media has become the main advertising tool for companies. However, there 
 
 ## Data Sources
 Webscrapping of the following links:
+  
   https://hypeauditor.com
   
   https://www.instagram.com
@@ -24,4 +25,4 @@ After Webscrapping several websites, I manage to obtain  some characteristics of
 
 # Designing the recommendor
 
-After designing the dataset, I used tableau to 
+After designing the dataset, I used tableau to build a dashboard as dynamic as possible were the company could play with the filters an choose the characteristics of the influencer that best suit their product and, therefore, their audience. Imagine an italian fashion company that is thinking about launching it's new collection in Spain. They would then select Spain as Country, Fashion as Category, 
