@@ -28,7 +28,7 @@ After Webscrapping several websites, I manage to obtain data of about 1000 Insta
 
 After designing the dataset, I used tableau to build a dashboard as dynamic as possible where the company could play with the filters an choose the characteristics of the influencer that best suit their product and, therefore, their audience. This is easily seen with an example. Imagine an italian fashion company that is thinking about launching it's new collection in Spain. They would then select Spain as Country, Fashion as Category,they may be interested in influencers that have previously worked with luxury brands such as YSL ... The recommendor would then return all the influencers that meet that certain criterias and ranked them by it's authentic engagement. The authentic engagement is the average of comments and likes the account receives per post.
 
-![image](https://github.com/MpiPuin12/Marc-Puyol-Iniesta/blob/main/Final%20Project/Captura%20de%20pantalla%202022-03-17%20a%20las%2020.48.40.png)
+![image](https://github.com/MpiPuin12/Marc-Puyol-Iniesta/blob/main/Final%20Project/Dashboard%20example.png)
 
 # Thinking about the next versions
 
